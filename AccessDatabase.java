@@ -1,3 +1,7 @@
+//Suppose we have an MS Access database named ICE_PUST which has a table named by Student with field (Name, Email, and Phone). Using this database answer the following questions:
+//a.Write down a java program to insert data into the Student table of the ICE_PUST database.
+//javac -cp ".;C:\JAVA\UCanAccess-5.0.1.bin\ucanaccess-5.0.1.jar;C:\JAVA\UCanAccess-5.0.1.bin\lib\*" CreateAccessDB.java
+//java -cp ".;C:\JAVA\UCanAccess-5.0.1.bin\ucanaccess-5.0.1.jar;C:\JAVA\UCanAccess-5.0.1.bin\lib\*" CreateAccessDB
 import com.healthmarketscience.jackcess.*;
 import java.io.File;
 
